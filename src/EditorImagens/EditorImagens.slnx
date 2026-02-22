@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="EditorImagens.Console/EditorImagens.Console.csproj" />
+  <Project Path="EditorImagens.Tests/EditorImagens.Tests.csproj" />
+</Solution>
